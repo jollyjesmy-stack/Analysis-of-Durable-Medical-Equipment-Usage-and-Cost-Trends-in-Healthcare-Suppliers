@@ -14,11 +14,11 @@ Matplotlib
 Seaborn
 
 # Key Insights #
-1 Based on the analysis, the following insights were observed:
-2 A small number of suppliers contribute to a very high number of services, indicating uneven distribution.
-3 Medicare payment amounts show high variability, with some extreme outliers.
-4 Certain states dominate in terms of total services provided.
-5 There is a positive relationship between the number of claims and services.
-6 A few HCPCS codes account for a large portion of total Medicare payments.
-7 Rental services are less frequent compared to non-rental services.
-8 Supplier specialties significantly influence the number of services provided.
+Based on the analysis, the following insights were observed:
+ A small number of suppliers contribute to a very high number of services, indicating uneven distribution.
+ Medicare payment amounts show high variability, with some extreme outliers.
+ Certain states dominate in terms of total services provided.
+ There is a positive relationship between the number of claims and services.
+ A few HCPCS codes account for a large portion of total Medicare payments.
+ Rental services are less frequent compared to non-rental services.
+ Supplier specialties significantly influence the number of services provided.
